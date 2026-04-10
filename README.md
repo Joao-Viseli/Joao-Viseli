@@ -19,3 +19,9 @@ I'm currently learning and improving my skills in:
 ![CSS](https://img.shields.io/badge/CSS-239120?style=flat&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34C26?style=flat&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-viseli)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovictorbviseli@gmail.com)
+
